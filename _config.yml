@@ -261,3 +261,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+  remote_theme: "mmistakes/minimal-mistakes"

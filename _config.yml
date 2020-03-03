@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Dencil Alave"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/dencilalave.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analytics"
   location         : "Melbourne, AUS"
   email            :

@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dencil Alave"
+title                    : "DencilAlave"
 title_separator          : "-"
-name                     : "Dencil Alave"
-description              : "Data Analytics by Dencil Alave"
+name                     : "DencilAlave"
+description              : "Data"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -262,4 +262,3 @@ defaults:
       layout: single
       author_profile: true
       
-  remote_theme: "mmistakes/minimal-mistakes"

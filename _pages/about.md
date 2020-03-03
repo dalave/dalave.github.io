@@ -1,10 +1,7 @@
 ---
-title: "About"
+title: "About Data by Dencil"
 permalink: /about/
-header:
-  image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm a software engineer delving into data analytics, machine learning, exploratory analysis, and data visualizations.
 
-Etc, etc, etc
